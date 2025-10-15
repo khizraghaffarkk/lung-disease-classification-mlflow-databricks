@@ -1,0 +1,13 @@
+tensorflow
+numpy
+pandas
+matplotlib
+scikit-learn
+hyperopt
+mlflow
+seaborn
+Pillow
+kaggle
+python-dotenv
+requests
+databricks-cli
